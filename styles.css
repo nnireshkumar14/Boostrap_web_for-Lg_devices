@@ -1,0 +1,101 @@
+/*---heder section start---*/
+ .header{
+background-color: white;
+
+}
+  .nav-item{
+  font-family: 'Lobster', cursive;
+  padding: 13px;
+  font-weight: bold;
+  }
+  
+  #home:hover{
+    color:red;
+    }
+  /*---heder section end---*/
+
+
+
+  /*----hero section-------*/
+
+.a{
+    background-image: url("https://thumbs.gfycat.com/TidyGloriousHammerheadshark-size_restricted.gif");
+    background-size: cover;
+    height: 100vh; 
+}
+
+.hero{
+    width: 550px;
+}
+.hero-body{
+  font-family: 'Abril Fatface', cursive; 
+  color: black;
+  font-weight: 600;
+}
+
+.button1{
+    width: 150px;
+    margin: 10px;
+    height: 40px;
+    background-color:#fcba03 ;
+    color: white;
+    border: none;
+   font-weight: bold;
+}
+
+.button2{
+background-color: transparent;
+width: 200px;
+border: solid 1px #fcba03;
+height: 39px;
+color:#fcba03  ;
+font-family: 'Dancing Script', cursive;
+font-weight: bold;
+}
+
+/*---hero section---*/
+
+
+/*---info section start---*/
+.card-header{
+  text-align: center;
+  margin: 20px;
+  border-radius: 10px;
+}
+  #img{
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.card-body{
+  font-family: 'Water Brush', cursive; 
+}
+
+/*---info section end--*/
+
+
+/*---about section start---*/
+h1{
+  color:#fcba03  ;
+}
+li{
+  font-family: 'Water Brush', cursive;
+  color:#fcba03 ;
+  
+}
+.img{
+  text-align: center;
+  padding: 10px;
+  
+}
+/*---about section end---*/
+
+
+/*---footer section---*/
+#button{
+  border-radius: 30px;
+  
+  
+}
+
+
+
